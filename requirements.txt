@@ -1,0 +1,9 @@
+boto3 – to access Wasabi
+
+pymysql, psycopg2, or sqlite3 – depending on the DB
+
+Wasabi Access & Secret Keys
+
+Bucket name and region info
+
+Python environment (3.8+ is fine)
