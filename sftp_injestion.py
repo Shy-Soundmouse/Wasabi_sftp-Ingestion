@@ -32,7 +32,7 @@ for file_attr in file_list:
 last_modified_date = datetime.fromtimestamp(file_attr.st_mtime).isoformat()
 
 
-import sqlite3
+
 # Insert Metadata into the Database
 conn = sqlite3.connect("sftp_ingestion.db")
 cursor = conn.cursor()
