@@ -6,4 +6,6 @@ Wasabi Access & Secret Keys
 
 Bucket name and region info
 
-Python environment (3.8+ is fine)
+Python environment (3.8+ is fine
+
+paramiko – for SFTP access
